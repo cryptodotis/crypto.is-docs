@@ -1,9 +1,5 @@
 # Code Audit Feed
 
-Writing secure code is hard. But if everyone is intimidated by the prospect,
-no secure code would be written. The Code Audit Feed seeks to be a single feed
-of commits to crypto and anonymity tools. It is the hope that an easy to skim
-feed of changes will encourage people to watch projects for changes relating
-to their area of expertise so they can audit and prehaps become involved in
-the project.
+Writing secure code is hard. But if everyone was intimidated by the prospect, no secure code would be written. The Code Audit Feed seeks aggregate commits to crypto and anonymity tools and categorize them. The commits will then be made available in generic, project-specific, generic keyword, and user-chosen feeds, available over a Web UI, RSS Feeds, and whatever other mechanisms users would like.  It is the hope that an easy to skim source of data, customized to each user's interests, will encourage people to review commits and look for bugs and other issues.  
 
+Development and Design are in the early stages, with a [github repo located here](https://github.com/cryptodotis/code-audit-feed).  If interested, you can find the developer(s) on [the crypto.is IRC channel](https://crypto.is/about/).
