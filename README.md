@@ -5,7 +5,7 @@ This repository contains all of the content for crypto.is in the form of Markdow
 
 ## md/
 
-This directory contains all of the Markdown templates for the project.
+This directory contains all of the Markdown templates for the project. To edit website content, start here.
 
 ## static/
 
