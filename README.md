@@ -1,7 +1,6 @@
 # The Crypto Project Content
 
 This repository contains all of the content for crypto.is in the form of Markdown templates.
-The post commit hook should work
 
 
 ## md/
