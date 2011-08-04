@@ -1,1 +1,0 @@
-# The Crypto Project Wiki
