@@ -24,7 +24,7 @@ Once your edits have been made, write a brief message below that explains the ed
 
 ## Edit this Page
 
-This homepage is directly editable as well from this wiki.  To edit content from this wiki, go to [/page/wiki-home.md](http://127.0.0.1:4567/page/wiki-home.md)
+This homepage is directly editable as well from this wiki.  To edit content from this wiki, go to [/page/wiki-home.md](/page/wiki-home.md)
 
    [1]: https://github.com/cryptodotis-wiki/crypto.is-docs
    [2]: https://github.com/cryptodotis/crypto.is-docs
