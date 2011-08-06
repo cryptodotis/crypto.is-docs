@@ -20,7 +20,7 @@ None Listed
 
 ### Storage
 
-None Listed
+[Tomb Installation Guide](/guides/install-tomb/)
 
 ### Currency
 
