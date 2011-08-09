@@ -18,7 +18,7 @@ cryptography and anonyminity software can provide them, how to install and use
 the software, and finally how to give back to the community by running
 services of their own.
 
-### Code Clearing House
+### [Code Clearing House](/projects/cch/)
 
 It can be a wide internet out there. This project aims to group security and
 anonyminity software, provide an overview of what it does and doesn't provide,
