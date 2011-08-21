@@ -1,6 +1,6 @@
 # Research Papers
 
-The Crypto Project has yet to recieve or sponsor any research papers of its
+The Crypto Project has yet to receive or sponsor any research papers of its
 own.
 
 ### The Free Haven Project: Selected Papers in Anonymity
