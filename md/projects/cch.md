@@ -1,4 +1,3 @@
 # Code Clearing House
 
-It can be a wide internet out there. This project aims to group security and anonymity software, provide an overview of what it does and doesn't provide, and links to further resources.
-
+There's an awful lot of privacy, pseudonymity, anonymity, and crypto projects out there.  While we writing a in-depth review and guide for every one would be an intractable problem - we do hope to provide a directory, a brief overview, links to more resources, and if we can, more information about them.
