@@ -8,11 +8,11 @@ This short guide will explain how to set yourself up for encrypted instant messa
 
 For the record, there is a bunch of other IM clients out there. Let's focus on Pidgin for the moment because it is officially supported by the OTR developers. See "Other Clients/Platforms" below for alternatives.
 
-Grab the latest version from http://pidgin.im and install it. When started for the first time, it should prompt you with a friendly setup screen to enter the details to your IM accounts. You don't have to do all in one sweep, more can always be added later. See the help section on the Pidgin homepage for more info.
+Grab the latest version from [http://pidgin.im/](http://pidgin.im/) and install it. When started for the first time, it should prompt you with a friendly setup screen to enter the details to your IM accounts. You don't have to do all in one sweep, more can always be added later. See the help section on the Pidgin homepage for more info.
 
 ## Get and Activate the OTR Plugin
 
-[Off-the-Record](http://www.cypherpunks.ca/otr/) is an add-on system that adds strong encryption on top of any plain old IM network. It is usually installed as a plugin to your IM client. Go to http://www.cypherpunks.ca/otr/ and find the Pidgin plugin for Windows in the "Downloads" section. Download and install. :)
+[Off-the-Record](http://www.cypherpunks.ca/otr/) is an add-on system that adds strong encryption on top of any plain old IM network. It is usually installed as a plugin to your IM client. Go to [http://www.cypherpunks.ca/otr/](http://www.cypherpunks.ca/otr/) and find the Pidgin plugin for Windows in the "Downloads" section. Download and install. :)
 
 When you (re)start Pidgin, select "Plugins" from the "Tools" menu. Find the Off-the-Record plugin in the list and enable it.
 
@@ -27,18 +27,18 @@ This is pretty important, but it also requires some effort from you. If the encr
 
 There is a very nice video on YouTube showing the steps:
 
-http://www.youtube.com/watch?v=aV6-s9o9bVw
+[(WATCH ON YOUTUBE)](http://www.youtube.com/watch?v=aV6-s9o9bVw)
 
 ## Links
 
- * Documentation from the OTR project: http://www.cypherpunks.ca/otr/index.php#docs
- * Pidgin help: http://pidgin.im/support/
+ * [Documentation from the OTR project](http://www.cypherpunks.ca/otr/index.php#docs)
+ * [Pidgin help](http://pidgin.im/support/)
 
 ## Other Clients/Platforms
 
  * MacOS: [Adium](http://adium.im/) comes with OTR out of the box!
  * Pidgin also works on Linux and you should find it in your package manager, along with the OTR plugin.
  * [Miranda](http://www.miranda-im.org/) and [Trillian](http://www.trillian.im/) are other popular IM clients for Windows that have OTR plugins:
-   * OTR for Miranda: http://addons.miranda-im.org/details.php?action=viewfile&id=2644
-   * OTR for Trillian: http://trillianotr.kittyfox.net/
- * Comprehensive list of OTR-enabled software: http://www.cypherpunks.ca/otr/software.php
+   * [OTR for Miranda](http://addons.miranda-im.org/details.php?action=viewfile&id=2644)
+   * [OTR for Trillian](http://trillianotr.kittyfox.net/)
+ * [Comprehensive list of OTR-enabled software](http://www.cypherpunks.ca/otr/software.php)
