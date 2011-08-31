@@ -1,52 +1,44 @@
-# Recommended Reading
+# Reading & Research
 
-### Cryptographic Right Answers
+## Research Papers
 
-Colin Percival, a FreeBSD Security Officer and a cryptographic researcher,
-lists the recommended ways to use crytography for a majority of situations and
-use cases.
+##### IACR EPrint Archive
 
-Read the link at [Cryptographic Right Answers][1]
+The [International Association for Cryptologic Research ePrint Archive](http://eprint.iacr.org/) provides rapid access to recent research in cryptology - an RSS feed of research papers. 
 
-   [1]: http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html
+##### The Free Haven Project: Selected Papers in Anonymity
 
-### If You're Typing The Letters A-E-S Into Your Code, You're Doing It Wrong
+The current best resource for a collection of papers on anonymity research can be found at the Free Haven Project at [AnonBib](http://www.freehaven.net/anonbib/)
 
-Thomas Ptacek, co-founder of Matasano Security, writes an entertaining post
-that gives cryptographic lessons through an anecdotal interview.
+##### Tahoe-LAFS Bibliography
 
-Read the link at [If You're Typing The Letters A-E-S Into Your Code, You're
-Doing It Wrong][2]
+For an excellent collection of papers on Cryptography, Erasure Coding, Direct Attached Storage, and P2P/Distributed Systems/Decentralization, check out [TahoeBib](http://tahoe-lafs.org/trac/tahoe-lafs/wiki/Bibliography)
 
-   [2]: http://chargen.matasano.com/chargen/2009/7/22/if-youre-typing-the-letters-a-e-s-into-your-code-youre-doing.html
+##### Flud Wiki: Related Papers
 
-### A Stick Figure Guide to the Advanced Encryption Standard (AES)
+For an excellent collection of papers on Peer-to-Peer Backup, Reputation and Trust, Cryptography, Erasure Coding, Economics, Distributed Hash Tables and more check out [Flud Wiki](http://flud.org/wiki/index.php/RelatedPapers)
 
-A visual stick figure story that takes the reader through the history and
-background of AES, some basic crypto concepts, and a breakdown of AES.
+##Individual Articles
 
-Read the link at [A Stick Figure Guide to the Advanced Encryption Standard
-(AES)][3]
+##### Cryptographic Right Answers
 
-   [3]: http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+Colin Percival, a FreeBSD Security Officer and a cryptographic researcher, lists the recommended ways to use crytography for a majority of situations and use cases. Read the link at [Cryptographic Right Answers](http://www.daemonology.net/blog/2009-06-11-cryptographic-right-answers.html)
 
-### Cracking Budget Encryption
+##### If You're Typing The Letters A-E-S Into Your Code, You're Doing It Wrong
 
-Seen those budget "encrypted" external hard drives? Well the encryption
-usually isn't so hot. Here's how one was cracked. This is often the closest
-you'll get to real crypto cracking.
+Thomas Ptacek, co-founder of Matasano Security, writes an entertaining post that gives cryptographic lessons through an anecdotal interview.  Read the link at [If You're Typing The Letters A-E-S Into Your Code, You're
+Doing It Wrong](http://chargen.matasano.com/chargen/2009/7/22/if-youre-typing-the-letters-a-e-s-into-your-code-youre-doing.html)
 
-Read the link at [Cracking budget encryption][4]
+##### A Stick Figure Guide to the Advanced Encryption Standard (AES)
 
-   [4]: http://www.h-online.com/security/Cracking-budget-encryption--/features/112548/0
+A visual stick figure story that takes the reader through the history and background of AES, some basic crypto concepts, and a breakdown of AES. Read the link at [A Stick Figure Guide to the Advanced Encryption Standard](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 
-### Enough With The Rainbow Tables
+##### Cracking Budget Encryption
 
-Why you want a nice, slow hash function for your password storage, and some
-suggestions for which to choose.
+Seen those budget "encrypted" external hard drives? Well the encryption usually isn't so hot. Here's how one was cracked. This is often the closest you'll get to real crypto cracking. Read the link at [Cracking budget encryption](http://www.h-online.com/security/Cracking-budget-encryption--/features/112548/0)
 
-Read the link at [Enough With The Rainbow Tables: What You Need To Know About
-Secure Password Schemes][5]
+##### Enough With The Rainbow Tables
 
-   [5]: http://chargen.matasano.com/chargen/2007/9/7/enough-with-the-rainbow-tables-what-you-need-to-know-about-s.html
+Why you want a nice, slow hash function for your password storage, and some suggestions for which to choose. Read the link at [Enough With The Rainbow Tables: What You Need To Know About
+Secure Password Schemes](http://chargen.matasano.com/chargen/2007/9/7/enough-with-the-rainbow-tables-what-you-need-to-know-about-s.html)
 
