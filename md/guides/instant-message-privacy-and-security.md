@@ -38,7 +38,7 @@ http://www.youtube.com/watch?v=aV6-s9o9bVw
 
  * MacOS: [Adium](http://adium.im/) comes with OTR out of the box!
  * Pidgin also works on Linux and you should find it in your package manager, along with the OTR plugin.
- * Miranda(http://www.miranda-im.org/) and [Trillian](http://www.trillian.im/) are other popular IM clients for Windows that have OTR plugins:
+ * [Miranda](http://www.miranda-im.org/) and [Trillian](http://www.trillian.im/) are other popular IM clients for Windows that have OTR plugins:
    * OTR for Miranda: http://addons.miranda-im.org/details.php?action=viewfile&id=2644
    * OTR for Trillian: http://trillianotr.kittyfox.net/
  * Comprehensive list of OTR-enabled software: http://www.cypherpunks.ca/otr/software.php
