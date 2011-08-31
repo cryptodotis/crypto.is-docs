@@ -1,7 +1,4 @@
 # Bleeding Edge
 
-This area is meant to be a testbed of bleeding edge technologies like Strict
-Transport Security. While not a comprehensive walkthrough - we hope to provide
-enough information for experienced sysadmins to set up bleeding edge features,
-as well as link to existing implementations.
+There's a lot of interesting technologies, protocols, and improvements [on the horizon](http://datatracker.ietf.org/wg/).  Things like [DANE](https://datatracker.ietf.org/wg/dane/), [DNSSEC](http://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions), [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) and [more improvements](https://tools.ietf.org/html/draft-bmoeller-tls-falsestart-00) [to TLS](http://tools.ietf.org/html/draft-agl-tls-nextprotoneg-00) [than you can](http://tools.ietf.org/html/draft-agl-tls-snapstart-00) [shake a stick at](http://tools.ietf.org/html/draft-altman-tls-channel-bindings-10).  We want to encourage participation in designing, testing, and deploying these technologies _first_.  If _we_ can't figure out how to deploy them - how do we expect the rest of the internet to follow suite?  We hope to provide enough information for experienced sysadmins to set up bleeding edge features, as well as link to existing implementations.
 
