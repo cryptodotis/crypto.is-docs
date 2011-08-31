@@ -1,7 +1,3 @@
 # Contribute Goods
 
-The Crypto Projects aims to create a master set of tutorials and guides for
-all who are looking to setup servers. If you would like to contribute a
-tutorial, server space, bandwidth or anything, please contact The Crypto
-Project.
-
+The Crypto Project aims to run anonymity services such as tor, remailers, and others.  If you can provide server space, bandwidth, or other resources - we may be able to work with you to help or run the services for you on your contributions.  Please get in touch.
