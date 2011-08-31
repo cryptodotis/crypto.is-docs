@@ -12,7 +12,7 @@ None Listed
 
 ### Chat
 
-[Instant Message Security and Privacy](/guides/instant-message-privacy-and-security/)
+[Instant Message Security and Privacy](https://wiki.crypto.is/page/md/guides/instant-message-privacy-and-security.md)
 
 ### Mobile
 
