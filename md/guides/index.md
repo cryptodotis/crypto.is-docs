@@ -12,7 +12,7 @@ None Listed
 
 ### Chat
 
-[IM Crypto for Windows Peeps (and others, too)](guides/im-crypto-for-windows-peeps-(and-others,-too\)/)
+[Instant Message Security and Privacy](/guides/instant-message-security-and-privacy/)
 
 ### Mobile
 
