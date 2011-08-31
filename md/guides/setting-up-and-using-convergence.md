@@ -14,4 +14,9 @@ the traditional CAs don't matter anymore. instead, when you visit a website via 
 3. if the cert is unknown, one or multiple *notaries* are asked to confirm its legitimacy.
    if they do, i.e. they have seen and verified it before, the cert is remembered and your connection goes through.
 
-you can freely configure the list of notaries to trust.
+you can freely configure the list of notaries to trust by visiting the add-on options.
+
+## Notaries
+
+* our very own: [cryptodotis.notary](http://crypto.is/static/files/cryptodotis.notary)
+* official [notary list](https://github.com/moxie0/Convergence/wiki/Notary-list-:--share-and-find-notaries!)
