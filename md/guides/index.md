@@ -8,7 +8,7 @@ None Listed
 
 ### Anonymity
 
-None Listed
+[Introduction to Anonymity](https://wiki.crypto.is/page/md%2Fguides%2Fintroduction-to-anonymity.md)
 
 ### Chat
 
