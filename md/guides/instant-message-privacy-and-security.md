@@ -41,4 +41,5 @@ There is a very nice video on YouTube showing the steps:
  * [Miranda](http://www.miranda-im.org/) and [Trillian](http://www.trillian.im/) are other popular IM clients for Windows that have OTR plugins:
    * [OTR for Miranda](http://addons.miranda-im.org/details.php?action=viewfile&id=2644)
    * [OTR for Trillian](http://trillianotr.kittyfox.net/)
+ * For those who already use IRC, [BitlBee](http://www.bitlbee.org/) presents your contacts as an IRC server and includes OTR support.
  * [Comprehensive list of OTR-enabled software](http://www.cypherpunks.ca/otr/software.php)
