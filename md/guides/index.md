@@ -12,7 +12,7 @@ None Listed
 
 ### Chat
 
-[Instant Message Security and Privacy](/guides/instant-message-security-and-privacy/)
+[Instant Message Security and Privacy](/guides/instant-message-privacy-and-security/)
 
 ### Mobile
 
