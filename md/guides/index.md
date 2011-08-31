@@ -20,7 +20,7 @@ None Listed
 
 ### Storage
 
-[Tomb Installation Guide](/guides/install-tomb/)
+[Tomb Installation Guide](https://wiki.crypto.is/page/md/guides/install-tomb.md)
 
 ### Currency
 
