@@ -2,6 +2,10 @@
 
 This section is a collection of tutorials, setup guides, and manuals for individuals to use.  To add a guide to the list below, create a new page at [The Crypt Project Wiki](https://wiki.crypto.is).
 
+### Web
+
+[Setting Up and Using Convergence](https://wiki.crypto.is/page/md/guides/setting-up-and-using-convergence.md)
+
 ### Email
 
 None Listed
