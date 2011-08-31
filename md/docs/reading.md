@@ -46,7 +46,7 @@ Why you want a nice, slow hash function for your password storage, and some
 suggestions for which to choose.
 
 Read the link at [Enough With The Rainbow Tables: What You Need To Know About
-Secure Password Schemes][4]
+Secure Password Schemes][5]
 
-   [4]: http://chargen.matasano.com/chargen/2007/9/7/enough-with-the-rainbow-tables-what-you-need-to-know-about-s.html
+   [5]: http://chargen.matasano.com/chargen/2007/9/7/enough-with-the-rainbow-tables-what-you-need-to-know-about-s.html
 
