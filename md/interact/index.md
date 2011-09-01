@@ -14,7 +14,7 @@ notified of your subscription.
 ### Chat on IRC
 
 Join in on the conversation on the #cryptodotis channel on OFTC. Most of The
-Crypto Project conversation goes on there as well as conversation realted to
+Crypto Project conversation goes on there as well as conversation related to
 the various supported projects (like remailers).
 
 ### Donate Your Time
@@ -27,16 +27,16 @@ looking for anyone that can contribute to a project in anyway. Check out
 
 ### Fund Anonymity Servers
 
-To donate funds to The Crypto Project, or to find information to donat to the
+To donate funds to The Crypto Project, or to find information to donate to the
 various supported projects, check out [Contributing Money][2]
 
    [2]: http://crypto.is/interact/money/
 
 ### Contribute Servers, Shares and Bandwidth
 
-One of the best ways to help out anonymity projects is to setup and run a
+One of the best ways to help out anonymity projects is to set up and run a
 server yourself. The Crypto Projects aims to create a master set of tutorials
-and guides for all who are looking to setup servers. Check out [Contributing
+and guides for all who are looking to set up servers. Check out [Contributing
 Goods][3] to find links to more information on how you can help.
 
    [3]: http://crypto.is/interact/goods/
