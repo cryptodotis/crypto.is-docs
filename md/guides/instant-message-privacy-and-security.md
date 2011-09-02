@@ -1,5 +1,3 @@
-# Instant Message Privacy and Security
-
 This short guide will explain how to set yourself up for encrypted instant messaging via any network by installing Pidgin and OTR ("Off-the-Record"). I'll write it to address the MS Windows user, but the principles apply to any platform. There's a section at the end for all you Mac and Linux users. If you're more exotic than that, I guess you know what you're doing. ;)
 
 ## Get Pidgin
