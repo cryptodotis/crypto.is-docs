@@ -14,3 +14,5 @@ This directory contains all of the static media, such as images, css, javascript
 ## templates/
 
 This directory contains the base.html layout template (that the other templates inherit), and the main and about pages.
+
+
