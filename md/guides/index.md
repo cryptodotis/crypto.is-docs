@@ -4,7 +4,8 @@ This section is a collection of tutorials, setup guides, and manuals for individ
 
 ### Web
 
-[Setting Up and Using Convergence](https://wiki.crypto.is/page/md/guides/setting-up-and-using-convergence.md)
+* [Setting Up and Using Convergence](https://wiki.crypto.is/page/md/guides/setting-up-and-using-convergence.md) -- get started as a user
+* [How Convergence Works](https://wiki.crypto.is/page/md/guides/how-convergence-works.md) -- a deeper look
 
 ### Anonymity
 
