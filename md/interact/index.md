@@ -16,9 +16,17 @@ Are you a developer? Can you write documentation? The Crypto Project is looking 
 
 ### Fund Anonymity Servers
 
-To donate funds to The Crypto Project, or to find information to donate to the various supported projects, check out [Contributing Money](/interact/money/).
+To donate funds to The Crypto Project, or to find information to donate to the
+various supported projects, check out [Contributing Money][2]
 
-### Contribute Servers and Bandwidth
+   [2]: http://crypto.is/interact/money/
+
+### Contribute Servers, Shares and Bandwidth
+
+One of the best ways to help out anonymity projects is to set up and run a
+server yourself. The Crypto Projects aims to create a master set of tutorials
+and guides for all who are looking to set up servers. Check out [Contributing
+Goods][3] to find links to more information on how you can help.
 
 Something any anonymity networks needs... is the network.  If you can donate servers, space, or bandwidth we can help you put it to good use.  Check out [Contributing Goods](/interact/goods/) or [get in touch](/about/).
 
