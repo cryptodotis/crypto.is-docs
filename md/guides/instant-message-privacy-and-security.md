@@ -27,7 +27,8 @@ This is pretty important, but it also requires some effort from you. If the encr
 
 There is a very nice video on YouTube showing the steps:
 
-[(WATCH ON YOUTUBE)](http://www.youtube.com/watch?v=aV6-s9o9bVw)
+ * [(WATCH ON YOUTUBE)](http://www.youtube.com/watch?v=aV6-s9o9bVw)
+ * [Another video's about how to install Pidgin on windows 7 and Adium on MacOSX with OTR](http://telekommunist.nl/tutorials/)
 
 ## Links
 
