@@ -14,7 +14,9 @@
 3.     Start the server: `$ sudo convergence-notary -p 80 -s 443 -c path/to/certificate.pem -k path/to/key.key`
 
 The configuration shown above has the convergence notary running using port 80 and 443.  However you can specify other ports.  Remember to open those ports as incoming on your firewall.
-The Publish steps below will save the configuration, to the notary file.  Make sure you use the same values when following the Publish steps, the file created tells clients (upon importing the exported .notary file) which ports to connect to the notary on.
+The Publish steps below will save the configuration to the notary file.  
+
+Make sure you use the same values when following the Publish steps, the file created tells clients (upon importing the exported .notary file) which ports to connect to the notary on.
 
 ## Publish
 
