@@ -18,6 +18,8 @@
 > The Publish section below details steps that will save the Notary configuration to the .notary file.  So make sure you use the same values you use here when following the Publish steps.  
 The resulting .notary file that is created tells the notary client (upon importing the exported .notary file) which ports to use to connect to the notary with.
 
+_**The Notary listens on port 80 for tunnel requests to other notaries. The only method it supports is CONNECT, and will only setup a proxy tunnel to a destination port of 4242.**_
+
 > ### On the Public Cert and matching Private Key:
 > For clarity's sake the certificates you are specifying here are to establish communications between the Notary and the Client, and not for any Webserver you may have running on the existing box or elsewhere.  Remember, the Convergence paradigm doesn't work with Internet Root CA servers, so this means that you can generate a Self Signed CA Cert to use here.
 However, you are correct in that you can generate a self signed cert for your website, which will be all that is necessary with the convergence system.
