@@ -6,6 +6,10 @@ Crypto.is has begun work on a few things it calls projects:
 
 Writing secure code is hard. But if everyone is intimidated by the prospect, no secure code would be written. The Code Audit Feed seeks to be a single feed of commits to crypto and anonyminity tools. It is the hope that an easy to skim feed of changes will encourage people to watch projects for changes relating to their area of expertise so they can audit and prehaps become involved in the project.
 
+### [The Network](/projects/network/)
+
+One of the main goals of The Crypto Project is to build a large network of anonymity, privacy, and censorship circumvention services.  This includes servers and services under the crypto.is domain name as well as those that are run by members of The Crypto Project.
+
 ### [Code Clearing House](/projects/cch/)
 
 It can be a wide internet out there. This project aims to group security and anonyminity software, provide an overview of what it does and doesn't provide, and links to further resources.
