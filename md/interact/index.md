@@ -2,6 +2,10 @@
 
 There are many ways to interact and get involved with Crypto.is and the various anonymity projects out there.
 
+### Contribution Wishlist
+
+We maintain a list of interesting projects The Crypto Project thinks would be worthwhile for people to work on, promote, and develop at the [Contribution Wishlist](/interact/wishlist/). These are the areas members need help with, services we believe should be setup, and more.
+
 ### Mailing Lists
 
 Crypto.is has its own mailing list, and there are [a number of additional mailing lists for other anonymity projects](/interact/mailing_lists/) you can join to keep tabs on development.
