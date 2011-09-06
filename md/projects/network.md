@@ -7,6 +7,7 @@ One of the main goals of The Crypto Project is to build a large network of anony
 ### Tor
 
 *TorProject.org Mirror*: We run a mirror of the torproject.org website at [https://torproject.crypto.is](https://torproject.crypto.is).
+
 *Tor Relay - "cryptodotis"*: We run a Tor relay with the nickname "cryptodotis".
 
 ### Tahoe-LAFS
@@ -23,3 +24,11 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 
 ## Services Run By Project Members
+
+### Tor
+
+### Tahoe-LAFS
+
+### Convergence
+
+### Mixminion
