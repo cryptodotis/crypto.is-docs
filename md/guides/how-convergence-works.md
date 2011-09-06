@@ -157,6 +157,37 @@ the notary listens for SSL on 4242 to support this function.
 TODO
 
 
+# Protocol
+Convergence uses a fairly simple HTTP 1.0 based protocol. The communication between client and notary consists of one request followed by one reply. Requests are handled by the SSL port or port 4242 of the notary.
+
+## Client Request
+The client makes a HTTP POST for page `/target/hostname+port` and as post variables it sends the fingerprint it saw.
+
+    POST /target/duckduckgo.com+443 HTTP/1.0
+    Content-Type: application/x-www-form-urlencoded
+    Connection: close
+    Content-Length: 71
+    
+    fingerprint=51:1F:8E:C6:22:82:5B:ED:A2:75:CB:3E:95:AB:63:7F:69:D3:18:1C
+
+## Notary Replies
+The notary can reply with several status codes that indicate what happened. When you make a valid request the notary will reply with a JSON encoded list of fingerprints and timestamps.
+### 200 OK and 409 CONFLICT
+These replies happen when the notary can verify the fingerprint without errors. 200 OK is used when the fingerprint is correct and 409 CONFLICT is used when the fingerprint is incorrect. The content of the reply is a signed JSON object. The Signature is for the JSON encoded data minus the signature itself, so the signed data is `{"fingerprintList":[...]}`. The reply shown below has the JSON data with newlines and indentation but an actual server reply is tightly packed without spaces or newlines.
+
+    HTTP/1.0 200 OK
+    Date: Tue, 06 Sep 2011 10:48:14 GMT
+    Content-Type: application/json
+    Server: TwistedWeb/8.2.0
+    
+    {
+        "fingerprintList":
+        [
+            {"timestamp": {"start": "1312585781", "finish": "1312585781"}, "fingerprint": "51:1F:8E:C6:22:82:5B:ED:A2:75:CB:3E:95:AB:63:7F:69:D3:18:1C"}
+        ],
+        "signature": kU0P3... removed for brevity ...zAzB6A=="
+    }
+
 [1]: https://wiki.crypto.is/page/md/guides/setting-up-and-using-convergence.md
 [2]: https://github.com/moxie0/Convergence
 [3]: https://github.com/moxie0/Convergence/blob/a7a702ae8c8eca77a5e3dd6c194cccaa49c30f35/client/chrome/content/ssl/NativeCertificateCache.js
