@@ -24,7 +24,7 @@ _**The Notary listens on port 80 for tunnel requests to other notaries. The only
 > For clarity's sake the certificates you are specifying here are to establish communications between the Notary and the Client, and not for any Webserver you may have running on the existing box or elsewhere.  Remember, the Convergence paradigm doesn't work with Internet Root CA servers, so this means that you can generate a Self Signed CA Cert to use here.
 However, you are correct in that you can generate a self signed cert for your website, which will be all that is necessary with the convergence system.
 
-**At this time we are not aware if the Notary client will attempt to verify the certificate presented by the Notary (when it connects to the Notary to make requests) before establishing the SSL connection by running it through other existing Notaries first.**
+**The Notary client will attempt to verify the certificate presented by the Notary (when it connects to the Notary to make requests) by comparing it to the certificate it has onhand for the Notary.**
 
 ## Publish
 
