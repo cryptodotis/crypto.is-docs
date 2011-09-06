@@ -9,6 +9,7 @@ This page is intended to be a list of interesting projects The Crypto Project th
 ## Software
 
 - Proper GPG plugins for both Firefox and Chrome
+- More Varied Convergence backends: CA Validating, DNSSEC Validating, OCSP, CRL, EFF Observatory, [Google Cert Observatory](http://googleonlinesecurity.blogspot.com/2011/04/improving-ssl-certificate-security.html), CA Pinned Validator
 
 ## Services
 
