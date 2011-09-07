@@ -16,7 +16,7 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 ### Convergence
 
-*Notary*: We run a notary at convergence.crypto.is that is open for use.  You can download our [convergence.notary file](http://crypto.is/static/files/cryptodotis.notary) to use our notary.
+*Notary*: We run a notary at convergence.crypto.is that is open for use.  You can download our [convergence .notary file](http://crypto.is/static/files/cryptodotis.notary) to use our notary.
 
 ### Mixminion
 
@@ -36,7 +36,10 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 ### Convergence
 
-*Notary: "notary.bigbrotherheavybombers.com"*: lcstyle runs a notary which can be used by downloading the [convergence.notary file](http://www.bigbrotherheavybombers.com/BigBrotherHeavyBombers.notary).
+*Notary - "notary.bigbrotherheavybombers.com"*: lcstyle runs a notary which can be used by downloading the [convergence .notary file](http://www.bigbrotherheavybombers.com/BigBrotherHeavyBombers.notary).
+
+*Notary - "notary.khjk.org"*: pesco runs a notary which can be used by downloading the [convergence .notary file](http://www.khjk.org/khjk.notary).
+
 
 ### Mixminion
 
