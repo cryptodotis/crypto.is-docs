@@ -44,7 +44,7 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 *Mixminion Relay - "rabbi"*: marlowe runs a Mixminion relay that goes by the nickname "rabbi"
 
-*Mixminion Relay - "winter"*: marlowe runs a Mixminion relay that goes by the nickname "winter"
+*Mixminion Relay - "chandler"*: marlowe runs a Mixminion relay that goes by the nickname "chandler"
 
 ### Remailers
 
