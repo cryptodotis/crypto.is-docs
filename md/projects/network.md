@@ -22,13 +22,36 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 *Mixminion Relay - "cryptodotis"*: We run a Mixminion relay that goes by the nickname "cryptodotis".
 
-
 ## Services Run By Project Members
 
 ### Tor
+
+*Tor Relay - "chandler"*: marlowe runs a Tor relay with the nickname "chandler"
+
+*Tor Relay - "nerowolfe"*: marlowe runs a Tor relay with the nickname "nerowolfe"
+
+*Tor Relay - "winters"*: marlowe runs a Tor relay with the nickname "winters"
+
+*Tor Relay - "spade"*: marlowe runs a Tor relay with the nickname "spade"
 
 ### Tahoe-LAFS
 
 ### Convergence
 
+*Notary: "notary.bigbrotherheavybombers.com"*: lcstyle runs a notary which can be used by downloading the [convergence.notary file](http://www.bigbrotherheavybombers.com/BigBrotherHeavyBombers.notary).
+
 ### Mixminion
+
+*Mixminion Relay - "amanscastle"*: marlowe runs a Mixminion relay that goes by the nickname "amanscastle"
+
+*Mixminion Relay - "rabbi"*: marlowe runs a Mixminion relay that goes by the nickname "rabbi"
+
+*Mixminion Relay - "winter"*: marlowe runs a Mixminion relay that goes by the nickname "winter"
+
+### Remailers
+
+*Middleman Remailer - "rabbi"*: marlowe runs a middleman remailer that goes by the nickname "rabbi"
+
+*Middleman Remailer - "pobox"*: marlowe runs a middleman remailer that goes by the nickname "pobox"
+
+*Middleman Remailer - "winters"*: marlowe runs a middleman remailer that goes by the nickname "winters"
