@@ -34,8 +34,6 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 *Tor Relay - "spade"*: marlowe runs a Tor relay with the nickname "spade"
 
-### Tahoe-LAFS
-
 ### Convergence
 
 *Notary: "notary.bigbrotherheavybombers.com"*: lcstyle runs a notary which can be used by downloading the [convergence.notary file](http://www.bigbrotherheavybombers.com/BigBrotherHeavyBombers.notary).
