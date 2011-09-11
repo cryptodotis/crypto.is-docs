@@ -6,6 +6,10 @@ This page is intended to be a list of interesting projects The Crypto Project th
 
  - A walkthough of [TLS](http://tools.ietf.org/html/rfc5054)-[SRP](http://en.wikipedia.org/wiki/TLS-SRP) including diagrams of how it works, [why it's better than alternatives](http://rdist.root.org/2010/09/08/clench-is-inferior-to-tlssrp/), and [how to set it up](/projects/bleeding/) on a server.
 
+## Bugfixes
+
+- Reportedly, in pidgin-OTR and irssi-OTR "The /me command gets sent in the clear. Use /say /me instead; a Pidgin-using recipient will display that like /me."
+
 ## Software
 
 - Proper GPG plugins for both Firefox and Chrome

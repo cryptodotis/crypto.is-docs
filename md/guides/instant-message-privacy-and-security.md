@@ -2,7 +2,7 @@ This short guide will explain how to set yourself up for encrypted instant messa
 
 ## Get Pidgin
 
-[Pidgin](http://pidgin.im) is an alternative IM client that supports pretty much any protocol/network out there. That includes your basic ICQ/AIM/MSN but maybe most notably also Google Talk and Facebook chat. The latter use a protocol called XMPP a.k.a. Jabber.
+[Pidgin](http://pidgin.im) is an alternative IM client that supports pretty much any protocol/network out there. That includes your basic ICQ/AIM/MSN but maybe most notably also Google Talk and [Facebook chat](https://www.facebook.com/help/?faq=223174657695137). The latter use a protocol called XMPP a.k.a. Jabber.
 
 For the record, there is a bunch of other IM clients out there. Let's focus on Pidgin for the moment because it is officially supported by the OTR developers. See "Other Clients/Platforms" below for alternatives.
 
@@ -32,6 +32,7 @@ There is a very nice video on YouTube showing the steps:
 
  * [Documentation from the OTR project](http://www.cypherpunks.ca/otr/index.php#docs)
  * [Pidgin help](http://pidgin.im/support/)
+ * [Facebook help: How to use an external client](https://www.facebook.com/help/?faq=223174657695137)
 
 ## Other Clients/Platforms
 
