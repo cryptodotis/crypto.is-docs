@@ -15,4 +15,4 @@
 
 * Use your favourite Editor to configure ~/etc/mixminiond.conf
 * If you have a mixminion user, and want to keep all of mixminions data in it's home, make a spool directory: `$ mkdir ~/spool; chmod 0700 ~/spool`
-* When done, start your mixminion: `$ mixminiond start`. On first start, it will generate it's keyset. Your server description file will be on $spooldir/keys/key_0001/ServerDesc.
+* When done, start your mixminion: `$ mixminiond start`. On first start, it will generate its keyset. Your server description file will be on $spooldir/keys/key_0001/ServerDesc.
