@@ -14,6 +14,8 @@ Editing the wiki will not automatically change the content on the live website. 
 
 The edits to the wiki are saved in a separate Git repository than that of the live site. Edits that are saved to the wiki trigger a post-commit hook that pushes the content to [This Github Repository][1].  Once the edits are approved, they are merged into the main [Crypto.is Repository][2]. From this point, once the new updates are made, approved, and merged, the build scripts take over and automatically generate the new website from the main repository.
 
+If you are new to github please create an account and follow the article at [How to fork a repo](http://help.github.com/fork-a-repo/).
+
 ## How to Edit a Page
 
 Under the section "List of All Current Pages" below, there is a list of links to each page from The Crypto Project website.  All of the web based templates are prefixed with "/md/" which simply is the container directory for the Markdown templates.  All web templates are written in [Markdown][3] syntax.  
