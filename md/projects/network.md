@@ -49,6 +49,8 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 *Mixminion Relay - "chandler"*: marlowe runs a Mixminion relay that goes by the nickname "chandler"
 
+*Mixminion Relay - "khjk"*: pesco runs a Mixminion relay that goes by the nickname "khjk"
+
 ### Remailers
 
 *Middleman Remailer - "rabbi"*: marlowe runs a middleman remailer that goes by the nickname "rabbi"
