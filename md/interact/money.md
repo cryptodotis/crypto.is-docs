@@ -1,7 +1,7 @@
 <h1>Contribute Money</h1>
 <h3>Donate to The Crypto Project</h3>
 <p>Donations to The Crypto Project offset our infrastructure costs and help run anonymity servers and services. Please specify if you would like to have your donation be anonymous or if you would like to be added to a donors list. Bitcoin donations will be added very soon.  We no longer accept Paypal for donations.  We will be moving to a new service shortly.</p>
-<div class="grid_3">
+<div class="grid_6">
     <a class="wepay-widget" href="https://www.wepay.com/donate/196910?widget_type=donations&widget_donation_id=196910&widget_auth_token=71c24f6b1c24b5e7d5d0e7b00d5ec99c21fd907d&widget_show_description=0&widget_show_thermometer=0&widget_show_donations=1">Donate to The Crypto Project<script id="wepay-widget_script" type="text/javascript" src="https://www.wepay.com/min/js/widget.wepay.js"></script></a>
 </div>
 <div class="grid_3">
