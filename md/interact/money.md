@@ -4,6 +4,7 @@
 <div class="grid_6">
     <a class="wepay-widget" href="https://www.wepay.com/donate/196910?widget_type=donations&widget_donation_id=196910&widget_auth_token=71c24f6b1c24b5e7d5d0e7b00d5ec99c21fd907d&widget_show_description=0&widget_show_thermometer=0&widget_show_donations=1">Donate to The Crypto Project<script id="wepay-widget_script" type="text/javascript" src="https://www.wepay.com/min/js/widget.wepay.js"></script></a>
 </div>
+<div class="clear_20"></div>
 <div class="grid_3">
 	<a href="http://flattr.com/thing/344797/The-Crypto-Project" target="_blank">
 	<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
