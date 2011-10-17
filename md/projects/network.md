@@ -45,6 +45,7 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 *Notary - "freedom.antagonism.org"*: marlowe runs a notary which can be used by downloading the [convergence .notary file](https://www.antagonism.org/antagonism.notary).
 
+*Notary - "notary.exosphere.de"*: hansenerd runs a notary which can be used by downloading the [convergence .notary file](https://www.exosphere.de/exosphere.notary).
 
 
 ### Mixminion
@@ -56,6 +57,8 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 *Mixminion Relay - "chandler"*: marlowe runs a Mixminion relay that goes by the nickname "chandler"
 
 *Mixminion Relay - "khjk"*: pesco runs a Mixminion relay that goes by the nickname "khjk"
+
+*Mixminion Relay - "exosphere"*: hansenerd runs a Mixminion relay that goes by the nickname "exosphere"
 
 ### Remailers
 
