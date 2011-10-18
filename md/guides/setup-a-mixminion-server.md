@@ -2,7 +2,6 @@
 
 ## Installation
 
-0. This guide targets Debian Squeeze servers. For other versions/distributions package names may differ.
 1. Install the dependencies. 
 * For Debian Squeeze: `# apt-get install build-essential python python-dev python-setuptools python-sqlite git`
 * For CentOS: `# yum install git gcc python-sqlite python-setuptools python-devel openssl-devel`
