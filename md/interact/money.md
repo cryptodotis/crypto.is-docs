@@ -10,6 +10,11 @@
 	<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
 </div>
 <div class="clear_20"></div>
+<div class="grid_3">
+	<h4>Bitcoin</h4>
+        <p>Our address is <em>18fhfsNaRVXd9oN7XU8VPxHAdUb4KB8EFe</em></p>
+</div>
+<div class="clear_20"></div>
 <h3>Other Projects</h3>
 <p>Please contribute as well to other projects that promote security, anonymity, privacy, and free speech.  If you would like to have a project listed here, please contact The Crypto Project and it will be added.</p>
 <p><a href="https://www.torproject.org/donate/donate.html.en">The Tor Project</a> - Donations to tor fund the development and promotion of the worldwide anonymity network, and may be tax deductible.</p>
