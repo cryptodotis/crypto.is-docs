@@ -16,6 +16,8 @@ We currently run a private, test grid with Tahoe-LAFS.  Soon, it will be convert
 
 ### Convergence
 
+*High Availability Logical Notary*: We run an HA notary that is open for use. You can download our [convergence .notary file](https://crypto.is/static/files/cryptodotisHA.notary) to use our notary.
+
 *Notary*: We run a notary at convergence.crypto.is that is open for use.  You can download our [convergence .notary file](https://crypto.is/static/files/cryptodotis.notary) to use our notary.
 
 *Notary*: We run a second notary at convergence2.crypto.is that is open for use.  You can download our [convergence .notary file](https://crypto.is/static/files/cryptodotis2.notary) to use our notary.
