@@ -31,3 +31,4 @@ This homepage is directly editable as well from this wiki.  To edit content from
    [1]: https://github.com/cryptodotis-wiki/crypto.is-docs
    [2]: https://github.com/cryptodotis/crypto.is-docs
    [3]: https://secure.wikimedia.org/wikipedia/en/wiki/Markdown 
+[http://www.websitelooker.com/ 'website value calculator]
