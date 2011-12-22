@@ -34,6 +34,8 @@ This section is a collection of tutorials, setup guides, and manuals for individ
 
 [Introduction to Your Key and GPG](/guides/introduction-to-your-key-and-gpg/)
 
+[Cipher Modes of Operation](/guides/encryption-modes-of-operation/)
+
 ### Remailers
 
 [Setup a Mixminion Server](/guides/setup-a-mixminion-server/)
