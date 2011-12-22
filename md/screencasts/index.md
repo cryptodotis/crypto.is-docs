@@ -4,4 +4,4 @@ This section is a collection of tutorials and screencasts for individuals to lea
 
 ### Mixminion
 
-[Setting Up and Sending Email With Mixminion pt. 1](http://www.youtube.com/watch?v=McFKtdoVz7g)
+[Setting Up and Sending Email With Mixminion pt. 1](/screencasts/setting-up-and-sending-email-with-mixminion/)
