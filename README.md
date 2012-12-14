@@ -1,3 +1,8 @@
+
+# ARCHIVED
+
+This project's contents should be considered archived.  The content is Creative Commons Attribution-NonCommercial 3.0 Unported.  Please do reproduce it on your site if you find it valuable.  It is not present on the crypto.is site anymore.
+
 # The Crypto Project Content
 
 This repository contains all of the content for crypto.is in the form of Markdown templates.
